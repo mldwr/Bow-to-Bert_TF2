@@ -1,0 +1,19 @@
+(venv) TheAir:Bow-to-Bert hujo$ python bert_similarity.py
+germany sells arms to saudi arabia  <=>  arms bend at the elbow                         <=>  0.935
+germany sells arms to saudi arabia  <=>  wave your arms around                  <=>  0.944
+
+
+the problem has no solution  <=>  boil the solution with salt                   <=>  0.973
+the problem has no solution  <=>  heat the solution to 75 degrees                       <=>  0.826
+
+
+all income is subject to tax  <=>  economics an arts subject                    <=>  0.929
+all income is subject to tax  <=>  i have one subject for credit                        <=>  0.919
+
+
+the key issue is quality not quantity  <=>  the key broke in the lock                   <=>  0.645
+the key issue is quality not quantity  <=>  i lost my key                       <=>  0.681
+
+
+record the play  <=>  play the record                   <=>  0.998
+record the play  <=>  play the game                     <=>  0.973

@@ -1,0 +1,8 @@
+(venv) TheAir:Bow-to-Bert hujo$ python fasttext_word_similarity.py holiday vacation paper
+Cosine Similarity: holiday & vacation : 0.7388389
+Cosine Similarity: holiday & paper : 0.2716892
+Cosine Similarity: vacation & paper : 0.27176374
+# words not found in fasttext.. 0
+Cosine Similarity: enjoy your holiday & have a fun vacation : 0.72311974
+Cosine Similarity: enjoy your holiday & study the paper : 0.5743287
+Cosine Similarity: have a fun vacation & study the paper : 0.51478416
