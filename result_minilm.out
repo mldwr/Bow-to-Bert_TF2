@@ -1,0 +1,40 @@
+0	play the record	record the play	0.8779
+2	record the play	play the game	0.5301
+1	play the record	play the game	0.5724
+
+3	germany sells arms to saudi arabia	arms bend at the elbow	0.2117
+4	germany sells arms to saudi arabia	wave your arms around	0.0229
+5	arms bend at the elbow	wave your arms around	0.5461
+
+6	the problem has no solution	boil the solution with salt	0.3257
+7	the problem has no solution	heat the solution to 75 degrees	0.2449
+8	boil the solution with salt	heat the solution to 75 degrees	0.5461
+
+9	all income is subject to tax	economics an arts subject	0.1687
+10	all income is subject to tax	i have one subject for credit	0.1427
+11	economics an arts subject	i have one subject for credit	0.2993
+
+12	the key issue is quality not quantity	the key broke in the lock	0.0406
+13	the key issue is quality not quantity	i lost my key	0.0967
+14	the key broke in the lock	i lost my key	0.7522
+
+
+ 0	play the record	record the play	0.7493
+2	record the play	play the game	0.429
+1	play the record	play the game	0.5778
+
+3	germany sells arms to saudi arabia	arms bend at the elbow	0.2528
+4	germany sells arms to saudi arabia	wave your arms around	0.1234
+5	arms bend at the elbow	wave your arms around	0.5211
+
+6	the problem has no solution	boil the solution with salt	0.2962
+7	the problem has no solution	heat the solution to 75 degrees	0.3089
+8	boil the solution with salt	heat the solution to 75 degrees	0.5923
+
+9	all income is subject to tax	economics an arts subject	0.2204
+10	all income is subject to tax	i have one subject for credit	0.2443
+11	economics an arts subject	i have one subject for credit	0.3358
+
+12	the key issue is quality not quantity	the key broke in the lock	0.2776
+13	the key issue is quality not quantity	i lost my key	0.1972
+14	the key broke in the lock	i lost my key	0.7395

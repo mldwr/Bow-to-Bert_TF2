@@ -21,3 +21,28 @@ the key broke in the lock  <=>  i lost my key                   <=>  0.819
 record the play  <=>  play the record                   <=>  0.998
 record the play  <=>  play the game                     <=>  0.973
 play the record  <=>  play the game                     <=>  0.968
+
+TF1
+arms bend at the elbow  <=>  germany sells arms to saudi arabia 			<=>  0.482
+arms bend at the elbow  <=>  wave your arms around 			<=>  0.615
+germany sells arms to saudi arabia  <=>  wave your arms around 			<=>  0.447
+
+
+boil the solution with salt  <=>  the problem has no solution 			<=>  0.478
+boil the solution with salt  <=>  heat the solution to 75 degrees 			<=>  0.881
+the problem has no solution  <=>  heat the solution to 75 degrees 			<=>  0.575
+
+
+economics an arts subject  <=>  all income is subject to tax 			<=>  0.413
+economics an arts subject  <=>  i have one subject for credit 			<=>  0.678
+all income is subject to tax  <=>  i have one subject for credit 			<=>  0.394
+
+
+the key broke in the lock  <=>  the key issue is quality not quantity 			<=>  0.432
+the key broke in the lock  <=>  i lost my key 			<=>  0.65
+the key issue is quality not quantity  <=>  i lost my key 			<=>  0.348
+
+
+play the record  <=>  record the play 			<=>  0.582
+play the record  <=>  play the game 			<=>  0.754
+record the play  <=>  play the game 			<=>  0.539

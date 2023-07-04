@@ -19,7 +19,7 @@ with open("./bertWordVectors.jsonl") as f:
 def checkPairs (iStart, word):
     print (sentences[iStart], ' <=> ', sentences[iStart+1] , '\t\t\t<=> ', round(np.dot(bertVectors[iStart][word], bertVectors[iStart+1][word]),3))
     print (sentences[iStart], ' <=> ', sentences[iStart+2] , '\t\t\t<=> ', round(np.dot(bertVectors[iStart][word], bertVectors[iStart+2][word]),3))
-#    print (sentences[iStart+1], ' <=> ', sentences[iStart+2] , '\t\t\t<=> ', round(np.dot(bertVectors[iStart+1][word], bertVectors[iStart+2][word]),3))
+    print (sentences[iStart+1], ' <=> ', sentences[iStart+2] , '\t\t\t<=> ', round(np.dot(bertVectors[iStart+1][word], bertVectors[iStart+2][word]),3))
 
 #0 Arms bend at the elbow
 #1 Germany sells arms to Saudi Arabia 
